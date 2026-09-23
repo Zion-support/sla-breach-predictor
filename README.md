@@ -1,25 +1,24 @@
 # SLA Breach Predictor
 
-Predict SLA breaches before they happen with AI-driven early warnings.
+AI that forecasts SLA breaches before they happen. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/sla-breach-predictor/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+SLA Breach Predictor is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **SLA, Incidents & SRE**.
 
-## Related apps
-- [Agent SLA Monitor](https://github.com/Zion-support/agent-sla-monitor) — [live](https://ziontechgroup.com/agent-sla-monitor/)
-- [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — [live](https://ziontechgroup.com/sla-forecast-guardian/)
-- [SLA Risk Forecaster](https://github.com/Zion-support/sla-risk-forecaster) — [live](https://ziontechgroup.com/sla-risk-forecaster/)
-- [SLO Calculator](https://github.com/Zion-support/slo-calculator) — [live](https://ziontechgroup.com/slo-calculator/)
+## Related apps in the network
+- [SLA Forecast Guardian](https://ziontechgroup.com/sla-forecast-guardian/) — predict SLA breaches and auto-escalate ([repo](https://github.com/Zion-support/sla-forecast-guardian))
+- [SLA Risk Forecaster](https://ziontechgroup.com/sla-risk-forecaster/) — predicts SLA breaches days ahead ([repo](https://github.com/Zion-support/sla-risk-forecaster))
+- [Zion AI SLA Breach Sentinel](https://ziontechgroup.com/zion-ai-sla-breach-sentinel/) — SLA monitoring and breach alerts ([repo](https://github.com/Zion-support/zion-ai-sla-breach-sentinel))
+- [Agent SLA Monitor](https://ziontechgroup.com/agent-sla-monitor/) — SLA monitoring for agent operations ([repo](https://github.com/Zion-support/agent-sla-monitor))
+- [SLO Calculator](https://ziontechgroup.com/slo-calculator/) — SLO & error budget math ([repo](https://github.com/Zion-support/slo-calculator))
+- [Incident Comms Writer](https://ziontechgroup.com/incident-comms-writer/) — draft incident updates ([repo](https://github.com/Zion-support/incident-comms-writer))
 
 ## Links
-- Live: https://ziontechgroup.com/sla-breach-predictor/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
