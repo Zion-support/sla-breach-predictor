@@ -1,22 +1,25 @@
 # SLA Breach Predictor
 
-AI that forecasts SLA breaches **before** they happen and recommends mitigation — so support and field teams act early instead of apologizing later.
+Predict SLA breaches before they happen with AI-driven early warnings.
 
 **Live app:** https://ziontechgroup.com/sla-breach-predictor/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- Forecasts breach probability per ticket/contract using historical SLA data
-- Recommends mitigation actions (escalation, re-dispatch, parts pre-staging)
-- Alerts via email/webhook with configurable thresholds
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [Agent SLA Monitor](https://github.com/Zion-support/agent-sla-monitor) — [live](https://ziontechgroup.com/agent-sla-monitor/)
+- [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — [live](https://ziontechgroup.com/sla-forecast-guardian/)
+- [SLA Risk Forecaster](https://github.com/Zion-support/sla-risk-forecaster) — [live](https://ziontechgroup.com/sla-risk-forecaster/)
+- [SLO Calculator](https://github.com/Zion-support/slo-calculator) — [live](https://ziontechgroup.com/slo-calculator/)
 
-### Related apps
-- [Zion AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/) — AI ticket classification & routing
-- [Zion AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/) — smart field-engineer dispatch
-- [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) — unified VoC analytics
+## Links
+- Live: https://ziontechgroup.com/sla-breach-predictor/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
